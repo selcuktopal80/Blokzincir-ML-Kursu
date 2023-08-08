@@ -1,0 +1,19 @@
+Kütüphane : NumPy, Pandas, vb. gibi ilgili modüllerin bir koleksiyonu.
+
+Modül : “.py” uzantılı bir dosya; komut dosyası ile birbirinin yerine kullanılır
+
+Modül adı : “.py” dosyasının adı
+
+Alt modül : bir alt dizindeki “.py” uzantılı bir dosya
+
+
+
+my_project
+├── dizin
+│   ├── modul.py
+│   └── alt_dizin
+│       └── alt_modul.py
+├── script1.py
+└── script2.py
+
+
