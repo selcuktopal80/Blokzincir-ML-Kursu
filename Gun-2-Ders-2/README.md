@@ -56,7 +56,7 @@ Dict
 
 List 
 
-
+Not: isealim kısmında https://github.com/Prabhdyals/Cryptocurrency-Wallet kodlarından faydalanılmıştır.
 
 Kurs Eğitmeni: Doç. Dr. Selçuk TOPAL
 Gebze Teknik Üniversitesi
