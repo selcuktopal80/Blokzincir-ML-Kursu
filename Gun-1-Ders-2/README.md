@@ -4,17 +4,28 @@ Kod anlatımlarına ait video: https://youtu.be/Z7LdrV1mnQw
 
 İçerik :
 
-Transaction (Işlem) 
+Transaction (Işlem)
+
 Zorluk 
-Yarılanma 
+
+Yarılanma
+
 Nonce
-Hash 
+
+Hash
+
 Blok Yapısı
+
 Blokzincir Yapısı 
+
 Basit Bir Blokzincir 
+
 Blok Kazımı (Mining) 
+
 Blok Ekleme
+
 İşlem Kazımı (Transaction Mining) 
+
 
 Kurs Eğitmeni: Doç. Dr. Selçuk TOPAL Gebze Teknik Üniversitesi Temel Bilimler Fakültesi Matematik Bölümü stopal@gtu.edu.tr
 
