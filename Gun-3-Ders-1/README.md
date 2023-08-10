@@ -58,6 +58,6 @@ Matematik Bölümü
 
 stopal@gtu.edu.tr 
 
-Not: Eğitim için https://github.com/ritushree-1999/iris_ritushree/tree/359604d861f95b6f2d573033561ce9073007778f kodlarından faydalanılmıştır.
+Not: Eğitim için https://github.com/ritushree-1999/iris_ritushree/tree/359604d861f95b6f2d573033561ce9073007778f ve https://github.com/zaemyung/streamlit-tutorial kodlarından faydalanılmıştır.
 
 #blockchain #Python #web3 #machinelearning #streamlit #evm #ml #FederatedLearning  #html #json #header #dapp #ganache #rfc #svm #lr
