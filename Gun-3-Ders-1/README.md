@@ -3,6 +3,8 @@ Merkezsiz Blokzincir ve Makine Öğrenmesi Web Uygulaması Kursu 3. Gün 1. Ders
 Kodlara ait video linkleri: https://youtu.be/o4e6Cx9cZek
 
 
+İçerik:
+
 Makine Öğrenmesi
 
 Karar Ağaçları
